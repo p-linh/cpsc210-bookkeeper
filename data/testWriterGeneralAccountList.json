@@ -1,0 +1,26 @@
+{"Accounts": [
+    {
+        "balance": 389.45,
+        "name": "CAD RESP",
+        "currency": "CAD",
+        "investments": [{
+            "symbol": "ABC",
+            "name": "Company A"
+        }]
+    },
+    {
+        "balance": 1203.68,
+        "name": "CAD TFSA",
+        "currency": "CAD",
+        "investments": [{
+            "symbol": "DEF",
+            "name": "Company B"
+        }]
+    },
+    {
+        "balance": 7135,
+        "name": "US TFSA",
+        "currency": "USD",
+        "investments": []
+    }
+]}

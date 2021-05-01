@@ -1,0 +1,20 @@
+{"Accounts": [
+    {
+        "balance": 17678,
+        "name": "CAD RESP",
+        "currency": "CAD",
+        "investments": [{
+            "symbol": "ABC",
+            "name": "C"
+        }]
+    },
+    {
+        "balance": 345,
+        "name": "DEF",
+        "currency": "CAD",
+        "investments": [{
+            "symbol": "ABC",
+            "name": "company A"
+        }]
+    }
+]}
